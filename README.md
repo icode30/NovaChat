@@ -1,4 +1,4 @@
 # NovaChat
-NoaChat is coming soon!
+NovaChat is coming soon!
 
 With the help off Chatgpt
